@@ -1,0 +1,5 @@
+{"name":"Log","hostname":"715c10de8e1d","pid":1,"level":40,"msg":"Theme's file locales/en.json not found.","time":"2019-10-02T18:34:27.752Z","v":0}
+{"name":"Log","hostname":"715c10de8e1d","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2019-10-02T18:34:30.765Z","v":0}
+{"name":"Log","hostname":"715c10de8e1d","pid":1,"level":30,"msg":"Your blog is now available on http://localhost:2368/","time":"2019-10-02T18:34:30.767Z","v":0}
+{"name":"Log","hostname":"715c10de8e1d","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2019-10-02T18:34:30.768Z","v":0}
+{"name":"Log","hostname":"715c10de8e1d","pid":1,"level":30,"msg":"Ghost boot 9.608s","time":"2019-10-02T18:34:30.770Z","v":0}
